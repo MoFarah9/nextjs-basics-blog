@@ -18,7 +18,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi, My name is Mohammed, I'm a javascript web developer with interest
+          Hi, My name is Mo Farah, I'm a javascript web developer with interest
           in react and node.js
         </p>
         <p>
